@@ -1,1 +1,3 @@
+# Issue 3
+
 - Tinyfool 谈谈追求财务自由道路上的几个误区 https://www.youtube.com/watch?v=SfyalmV_B_k&t=17s
