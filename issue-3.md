@@ -8,3 +8,4 @@
 - Openpilot 相关资料 https://doc.sdut.me/
 - How to think in "Let it crash" https://mazenharake.wordpress.com/2009/09/14/let-it-crash-the-right-way/
 - Architecture 101 https://dev.to/david_whitney/architecture-for-everyone-1b0h
+- Web Skills Diagram https://andreasbm.github.io/web-skills/
