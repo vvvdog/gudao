@@ -5,3 +5,4 @@
 - [Issue 3](/issue-3.md)
 - [Issue 4](/issue-4.md)
 - [Issue 5](/issue-5.md)
+- [Issue 6](/issue-6.md)
